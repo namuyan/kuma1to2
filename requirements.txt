@@ -1,0 +1,5 @@
+bsddb3>=6.2.6
+pysimplegui>=4.4.1
+pycryptodomex
+fastecdsa
+requests
